@@ -1,2 +1,2 @@
-psswd:123
-mail:u@proton.me
+psswd:1235
+mail:u@proton.mee
