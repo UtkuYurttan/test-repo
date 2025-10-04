@@ -1,2 +1,0 @@
-psswd:123
-mail:u@proton.me
